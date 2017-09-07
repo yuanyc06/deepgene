@@ -5,7 +5,7 @@ Last updated: Oct 29, 2016
 
 ## Installation
 This software is implemented on MatConvNet [2] with CUDA 7.5 and cuDNN v3. CPU-only mode is also supported.
-- **Resources**: The model files (required), together with the original data of the proposed TCGA_DeepGene dataset, can be downloaded [here](https://pan.baidu.com/s/1o8wEBH4)
+- **Resources**: The data of the proposed TCGA_DeepGene dataset can be downloaded [here](https://pan.baidu.com/s/1o8wEBH4)
 - **Supported OS**: This software is tested on 64-bit Ubuntu 14.04 and 64-bit Windows 8.1
 - **MatConvNet**: Please download [MatConvNet](http://www.vlfeat.org/matconvnet/) to the current path, and compile with [instructions](http://www.vlfeat.org/matconvnet/install/). Below is a compilation example:
 ```
